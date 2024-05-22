@@ -1,0 +1,11 @@
+{
+  "name": "buldserverhttp",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
